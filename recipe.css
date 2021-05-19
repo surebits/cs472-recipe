@@ -44,6 +44,7 @@ body {
     background-image: url(images/silverware.jpg);
     color: #404040;
     font-family: georgia,garamond,serif;
+    font-size: 11pt;
 }
 
 pre {
