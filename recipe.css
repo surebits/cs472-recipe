@@ -3,6 +3,28 @@
     font-family: georgia,garamond,serif;
 }
 
+.heading {
+    background-color: #F0F0F0;
+    color: #A4A400;
+    font-family: "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    text-decoration: underline;
+    letter-spacing: 0.25em;
+}
+
+.pre {
+    font-family: georgia,garamond,serif;
+}
+
+.section {
+    border-bottom: 1px solid #404040;
+    margin: 20px 0px;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
 .tooltip {
     position: relative;
     display: inline-block;
@@ -42,25 +64,6 @@
     visibility: visible;
     opacity: 1;
   }
-
-.heading {
-    background-color: #F0F0F0;
-    color: #A4A400;
-    font-family: "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
-    font-size: 18pt;
-    text-decoration: underline;
-    letter-spacing: 0.25em;
-}
-
-.pre {
-    font-family: georgia,garamond,serif;
-}
-
-.section {
-    border-bottom: 1px solid #404040;
-    margin: 20px 0px;
-}
-
 
 #comments {
     padding: 0px 30pt;
